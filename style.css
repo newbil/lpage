@@ -1,0 +1,52 @@
+body{
+    margin:0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.logo{
+    display:flex;
+    background-color: #1f2937;
+    justify-content:space-between;
+}
+.img1{
+    height:100px;
+}
+a{
+    color: white;
+}
+#one{
+    display:flex;
+    gap:20px;
+    text-align: baseline;
+    font-size: 12px;
+}
+.intro{
+    display:flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: white;
+    padding-left:200px;
+    padding-right:200px;
+}
+.head{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+div.h2{
+    display: flex;
+    align-items: center;
+    padding: 60px;
+    width: 70px;
+    height: 80px;
+}
+
+.header{
+    display: flex;
+    font-size: 48px;
+    color: white;
+}
+.img2{
+    width: 500;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
