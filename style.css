@@ -28,7 +28,12 @@ body{
 }
 div.intro{
     display:flex;
-    justify-content: space-between;
+    justify-content: center;
+}
+.t{
+    display: flex;
+    flex-direction: row;
+    max-width: 1000px;
 }
 .intro{
     display:flex;
